@@ -9,7 +9,7 @@ Version
 
 Prerequisites
 --------------
-1. Python 2.5.x or Jython 2.5.x .
+1. Python 2.7.x or Jython 2.7.x .
 2. SQLAlchemy o.7.3 or above.
 3. IBM_DB driver and IBM_DB_DBI wrapper 1.0.1 or higher
 
